@@ -12,6 +12,11 @@ let str2 = "World"
 
 let interpolatedString = "\(str1)\(str2)"
 
+// Multi-line strings
+"""
+hello
+"""
+
 
 // Booleans
 let bool1 = false
