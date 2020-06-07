@@ -21,4 +21,7 @@ bool1 && bool2 // Returns false
 
 bool1 || bool2 // Returns true
 
+// Ints
+let age = 32
 
+let sep_num = 32_000
